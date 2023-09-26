@@ -1,3 +1,3 @@
-# data-science-intro
+# data-science
 
 This contains data science exercises.
